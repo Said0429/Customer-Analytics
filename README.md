@@ -1,6 +1,5 @@
 # Customer-Analytics
-Project Description
-
+Preparing Data for Modeling
 ![Customer-Analytics](https://github.com/Said0429/Customer-Analytics/assets/116446264/5cebc9b2-3b49-4be8-889f-247f1e6bd748)
 
 Being able to create predictive models is very cool, but translating fancy models into real business value is a major challenge if the training data isn't stored efficiently.
