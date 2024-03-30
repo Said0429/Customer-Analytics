@@ -1,7 +1,7 @@
 # Customer-Analytics
 Project Description
 
-![Customer-Analytics](https://github.com/Said0429/Customer-Analytics/assets/116446264/ea6ad8c1-1bb3-4565-ac76-ad6b7998ddc5)
+![Picture1](https://github.com/Said0429/Customer-Analytics/assets/116446264/392e48d2-4ebb-4213-bdb2-e533bb2255b6)
 
 Being able to create predictive models is very cool, but translating fancy models into real business value is a major challenge if the training data isn't stored efficiently.
 
